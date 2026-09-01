@@ -32,4 +32,5 @@ int main() {
     cout << "Maximum Profit: " << solution.maxProfit(prices) << endl;
 
     return 0;
+    
 }
